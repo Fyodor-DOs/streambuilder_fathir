@@ -1,16 +1,16 @@
-# streambuilder_fathir
+Nama    : Ahmed Fathir Syafaat
 
-A new Flutter project.
+Kelas   : TI - 3H
 
-## Getting Started
+NIM     : 2241720083
 
-This project is a starting point for a Flutter application.
+# #12 | Lanjutan State Management dengan Streams
 
-A few resources to get you started if this is your first Flutter project:
+## Praktikum 6: StreamBuilder
+### Soal 12
+Jelaskan maksud kode pada langkah 3 dan 7 !
+> - Langkah 3: Membuat stream yang memancarkan angka acak antara 0 hingga 9 setiap detik menggunakan Stream.periodic.
+> - Langkah 7: Menggunakan StreamBuilder untuk membangun UI yang memperbarui angka acak terbaru secara otomatis berdasarkan data dari numberStream.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Capture hasil praktikum Anda berupa GIF dan lampirkan di README.
+![alt text](assets/images/soal12.gif)
